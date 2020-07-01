@@ -301,4 +301,28 @@
 		</hamnosys_manual>
 	</hns_sign>
 
+
+	<!-- Gloss -->
+	<hns_sign gloss="P">
+		<!-- Non-manual -->
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture=""/>
+		</hamnosys_nonmanual>
+		<!-- Manual -->
+		<hamnosys_manual>
+			<!-- Handshape -->
+			<hamflathand/><hamthumbacrossmod/>
+			<hammiddlefinger/><hamfingerstraightmod/>
+			<hamringfinger/><hamdoublehooked/>
+			<hampinky/><hamdoublehooked/>
+			<!-- Orientation -->
+			<hamextfingerol/> <hamextfingerdo/>
+			<hampalmd/>
+			<!-- Location -->
+			<hamhead/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+
+
 </sigml>
