@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sigml>
+
+	<!-- Gloss -->
+	<hns_sign gloss="A">
+		<!-- Non-manual -->
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture=""/>
+		</hamnosys_nonmanual>
+		<!-- Manual -->
+		<hamnosys_manual>
+			<!-- Handshape -->
+			<hamfist/>
+			<!-- Orientation -->
+			<hamextfingeru/>
+			<hampalmd/>
+			<!-- Location -->
+			<hamhead/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+
+	<!-- Gloss -->
+	<hns_sign gloss="B">
+		<!-- Non-manual -->
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture=""/>
+		</hamnosys_nonmanual>
+		<!-- Manual -->
+		<hamnosys_manual>
+			<!-- Handshape -->
+			<hamflathand/>
+			<hamthumbacrossmod/>
+			<!-- Orientation -->
+			<hamextfingeru/>
+			<hampalmd/>
+			<!-- Location -->
+			<hamhead/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>	
+
+	<!-- Gloss -->
+	<hns_sign gloss="C">
+		<!-- Non-manual -->
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture=""/>
+		</hamnosys_nonmanual>
+		<!-- Manual -->
+		<hamnosys_manual>
+			<!-- Handshape -->
+			<hamceeall/>
+			<!-- Orientation -->
+			<hamextfingeru/>
+			<hampalml/>
+			<!-- Location -->
+			<hamhead/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>	
+
+	<!-- Gloss -->
+	<hns_sign gloss="D">
+		<!-- Non-manual -->
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture=""/>
+		</hamnosys_nonmanual>
+		<!-- Manual -->
+		<hamnosys_manual>
+			<!-- Handshape -->
+			<hamflathand/> <hamthumbopenmod/>
+				<hammiddlefinger/> <hamfingerstraightmod/>
+				<hamringfinger/> <hamfingerstraightmod/>
+				<hampinky/> <hamfingerstraightmod/>
+			<!-- Orientation -->
+			<hamextfingeru/>
+			<hampalml/>
+			<!-- Location -->
+			<hamhead/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>	
+
+	<!-- Gloss -->
+	<hns_sign gloss="E">
+		<!-- Non-manual -->
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture=""/>
+		</hamnosys_nonmanual>
+		<!-- Manual -->
+		<hamnosys_manual>
+			<!-- Handshape -->
+			<hamflathand/> <hamthumbacrossmod/>
+			<hamfingerhookmod/>
+
+			<!-- Orientation -->
+			<hamextfingeru/>
+			<hampalmd/>
+			<!-- Location -->
+			<hamhead/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+
+	<!-- Gloss STICK FINGERS -->
+	<hns_sign gloss="F">
+		<!-- Non-manual -->
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture=""/>
+		</hamnosys_nonmanual>
+		<!-- Manual -->
+		<hamnosys_manual>
+			<!-- Handshape -->
+			<hampinch12open/>
+			<hammiddlefinger/> <hamfingerside/> <hamringfinger/>
+			<!-- Orientation -->
+			<hamextfingeru/>
+			<hampalmd/>
+			<!-- Location -->
+			<hamhead/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+
+	<!-- Gloss -->
+	<hns_sign gloss="G">
+		<!-- Non-manual -->
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture=""/>
+		</hamnosys_nonmanual>
+		<!-- Manual -->
+		<hamnosys_manual>
+			<!-- Handshape -->
+			<hamfinger2/>
+			<!-- Orientation -->
+			<hamextfingerl/>
+			<hampalml/>
+			<!-- Location -->
+			<hamhead/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+
+	<!-- Gloss -->
+	<hns_sign gloss="H">
+		<!-- Non-manual -->
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture=""/>
+		</hamnosys_nonmanual>
+		<!-- Manual -->
+		<hamnosys_manual>
+			<!-- Handshape -->
+			<hamfinger23/> <hamthumbacrossmod/>
+			<!-- Orientation -->
+			<hamextfingerl/>
+			<hampalml/>
+			<!-- Location -->
+			<hamhead/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+
+	<!-- Gloss -->
+	<hns_sign gloss="I_J">
+		<!-- Non-manual -->
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture=""/>
+		</hamnosys_nonmanual>
+		<!-- Manual -->
+		<hamnosys_manual>
+			<!-- Handshape for I -->
+			<hamfinger2/> <hamthumbacrossmod/> <hampinky/> 
+			<!-- Orientation -->
+			<hamextfingeru/> <hampalmd/>
+			<!-- Initial Location -->
+			<hamhead/>
+			<hamlrat/>
+			<!-- Movement -->
+			<hamseqbegin/>
+				<!-- Handshape for J -->
+				<hamreplace/><hamextfingerol/><hamextfingerdo/><hampalmd/>
+				<hamreplace/><hamextfingeru/><hampalmu/>
+			<hamseqend/>
+			<!-- Final Location -->
+			<hamneck/><hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+
+	<!-- Gloss -->
+	<hns_sign gloss="K">
+		<!-- Non-manual -->
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture=""/>
+		</hamnosys_nonmanual>
+		<!-- Manual -->
+		<hamnosys_manual>
+			<!-- Handshape -->
+			<hamflathand/>
+			<hamthumb/><hamdoublehooked/>
+			<hammiddlefinger/><hamfingerstraightmod/>
+			<hamringfinger/><hamdoublehooked/>
+			<hampinky/><hamdoublehooked/>
+			<!-- Orientation -->
+			<hamextfingeru/>
+			<hampalmdl/>
+			<!-- Location -->
+			<hamhead/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+
+	<!-- Gloss -->
+	<hns_sign gloss="L">
+		<!-- Non-manual -->
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture=""/>
+		</hamnosys_nonmanual>
+		<!-- Manual -->
+		<hamnosys_manual>
+			<!-- Handshape -->
+			<hamfinger2/> <hamthumboutmod/>
+			<!-- Orientation -->
+			<hamextfingeru/>
+			<hampalmd/>
+			<!-- Location -->
+			<hamhead/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+
+	<!-- Gloss -->
+	<hns_sign gloss="M">
+		<!-- Non-manual -->
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture=""/>
+		</hamnosys_nonmanual>
+		<!-- Manual -->
+		<hamnosys_manual>
+			<!-- Handshape -->
+			<hamflathand/> <hamfingerbendmod/>
+			<!-- Orientation -->
+			<hamextfingeru/> <hampalmd/>
+			<!-- Location -->
+			<hamhead/>
+			<hamlrat/>
+			<!-- Movement -->
+				<!-- Handshape -->
+				<hamreplace/>
+				<hamflathand/> <hamthumbacrossmod/>
+				<hamringfinger/> <hamdoublehooked/>
+				<hampinky/> <hamdoublebent/>
+				<hamindexfinger/> <hamdoublebent/>
+				<hammiddlefinger/> <hamdoublebent/>
+		</hamnosys_manual>
+	</hns_sign>
+
+	<!-- Gloss -->
+	<hns_sign gloss="N">
+		<!-- Non-manual -->
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture=""/>
+		</hamnosys_nonmanual>
+		<!-- Manual -->
+		<hamnosys_manual>
+			<!-- Handshape -->
+			<hamflathand/> <hamfingerbendmod/>
+			<hamringfinger/><hamdoublehooked/>
+			<hampinky/><hamdoublehooked/>
+			<!-- Orientation -->
+			<hamextfingeru/> <hampalmd/>
+			<!-- Location -->
+			<hamhead/>
+			<hamlrat/>
+			<!-- Movement -->
+			<hamseqbegin/>
+				<hamreplace/>
+				<hamflathand/><hamthumbacrossmod/>
+				<hamringfinger/><hamdoublehooked/>
+				<hampinky/><hamdoublehooked/>
+				<hamindexfinger/><hamdoublebent/>
+				<hammiddlefinger/><hamdoublebent/>
+			<hamseqend/>
+		</hamnosys_manual>
+	</hns_sign>
+
+	<!-- Gloss -->
+	<hns_sign gloss="O">
+		<!-- Non-manual -->
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture=""/>
+		</hamnosys_nonmanual>
+		<!-- Manual -->
+		<hamnosys_manual>
+			<!-- Handshape -->
+			<hampinchall/>
+			<!-- Orientation -->
+			<hamextfingeru/> <hampalml/>
+			<!-- Location -->
+			<hamhead/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+
+</sigml>
