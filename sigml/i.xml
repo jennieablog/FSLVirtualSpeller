@@ -1,0 +1,17 @@
+<!-- Gloss -->
+<hns_sign gloss="I">
+	<!-- Non-manual -->
+	<hamnosys_nonmanual>
+		<hnm_mouthpicture picture="AII"/>
+	</hamnosys_nonmanual>
+	<!-- Manual -->
+	<hamnosys_manual>
+		<!-- Handshape for I -->
+		<hamfinger2/> <hamthumbacrossmod/> <hampinky/> 
+		<!-- Orientation -->
+		<hamextfingeru/> <hampalmd/>
+		<!-- Initial Location -->
+		<hamhead/>
+		<hamlrat/>
+	</hamnosys_manual>
+</hns_sign>

@@ -1,0 +1,21 @@
+<!-- Gloss -->
+<hns_sign gloss="Z">
+	<!-- Non-manual -->
+	<hamnosys_nonmanual>
+		<hnm_mouthpicture picture="ZII"/>
+	</hamnosys_nonmanual>
+	<!-- Manual -->
+	<hamnosys_manual>
+		<!-- Handshape -->
+		<hamfinger2/> <hamthumbacrossmod/>
+		<!-- Orientation -->
+		<hamextfingero/> <hampalmd/>
+		<!-- Location -->
+		<hamhead/>
+		<hamlrat/>
+		<!-- Movement -->
+		<hamseqbegin/>
+			<hammover/> <hammovedl/> <hammover/>
+		<hamseqend/>
+	</hamnosys_manual>
+</hns_sign>

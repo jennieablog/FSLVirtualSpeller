@@ -1,0 +1,21 @@
+<!-- Gloss -->
+<hns_sign gloss="D">
+	<!-- Non-manual -->
+	<hamnosys_nonmanual>
+		<hnm_mouthpicture picture="DII"/>
+	</hamnosys_nonmanual>
+	<!-- Manual -->
+	<hamnosys_manual>
+		<!-- Handshape -->
+		<hamflathand/> <hamthumbopenmod/>
+			<hammiddlefinger/> <hamfingerstraightmod/>
+			<hamringfinger/> <hamfingerstraightmod/>
+			<hampinky/> <hamfingerstraightmod/>
+		<!-- Orientation -->
+		<hamextfingeru/>
+		<hampalml/>
+		<!-- Location -->
+		<hamhead/>
+		<hamlrat/>
+	</hamnosys_manual>
+</hns_sign>	

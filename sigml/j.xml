@@ -1,0 +1,25 @@
+<!-- Gloss -->
+<hns_sign gloss="J">
+	<!-- Non-manual -->
+	<hamnosys_nonmanual>
+		<hnm_mouthpicture picture="HAE"/>
+	</hamnosys_nonmanual>
+	<!-- Manual -->
+	<hamnosys_manual>
+		<!-- Handshape for I -->
+		<hamfinger2/> <hamthumbacrossmod/> <hampinky/> 
+		<!-- Orientation -->
+		<hamextfingeru/> <hampalmd/>
+		<!-- Initial Location -->
+		<hamhead/>
+		<hamlrat/>
+		<!-- Movement -->
+		<hamseqbegin/>
+			<!-- Handshape for J -->
+			<hamreplace/><hamextfingerol/><hamextfingerdo/><hampalmd/>
+			<hamreplace/><hamextfingeru/><hampalmu/>
+		<hamseqend/>
+		<!-- Final Location -->
+		<hamneck/><hamlrat/>
+	</hamnosys_manual>
+</hns_sign>

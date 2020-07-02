@@ -1,0 +1,20 @@
+<!-- Gloss -->
+<hns_sign gloss="E">
+	<!-- Non-manual -->
+	<hamnosys_nonmanual>
+		<hnm_mouthpicture picture="EEE"/>
+	</hamnosys_nonmanual>
+	<!-- Manual -->
+	<hamnosys_manual>
+		<!-- Handshape -->
+		<hamflathand/> <hamthumbacrossmod/>
+		<hamfingerhookmod/>
+
+		<!-- Orientation -->
+		<hamextfingeru/>
+		<hampalmd/>
+		<!-- Location -->
+		<hamhead/>
+		<hamlrat/>
+	</hamnosys_manual>
+</hns_sign>

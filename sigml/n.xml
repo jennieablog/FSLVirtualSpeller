@@ -1,0 +1,28 @@
+<!-- Gloss -->
+<hns_sign gloss="N">
+	<!-- Non-manual -->
+	<hamnosys_nonmanual>
+		<hnm_mouthpicture picture="ANN"/>
+	</hamnosys_nonmanual>
+	<!-- Manual -->
+	<hamnosys_manual>
+		<!-- Handshape -->
+		<hamflathand/> <hamfingerbendmod/>
+		<hamringfinger/><hamdoublehooked/>
+		<hampinky/><hamdoublehooked/>
+		<!-- Orientation -->
+		<hamextfingeru/> <hampalmd/>
+		<!-- Location -->
+		<hamhead/>
+		<hamlrat/>
+		<!-- Movement -->
+		<hamseqbegin/>
+			<hamreplace/>
+			<hamflathand/><hamthumbacrossmod/>
+			<hamringfinger/><hamdoublehooked/>
+			<hampinky/><hamdoublehooked/>
+			<hamindexfinger/><hamdoublebent/>
+			<hammiddlefinger/><hamdoublebent/>
+		<hamseqend/>
+	</hamnosys_manual>
+</hns_sign>

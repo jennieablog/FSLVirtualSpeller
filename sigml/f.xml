@@ -1,0 +1,19 @@
+<!-- Gloss STICK FINGERS -->
+<hns_sign gloss="F">
+	<!-- Non-manual -->
+	<hamnosys_nonmanual>
+		<hnm_mouthpicture picture="EVV"/>
+	</hamnosys_nonmanual>
+	<!-- Manual -->
+	<hamnosys_manual>
+		<!-- Handshape -->
+		<hampinch12open/>
+		<hammiddlefinger/> <hamfingerside/> <hamringfinger/>
+		<!-- Orientation -->
+		<hamextfingeru/>
+		<hampalmd/>
+		<!-- Location -->
+		<hamhead/>
+		<hamlrat/>
+	</hamnosys_manual>
+</hns_sign>

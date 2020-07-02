@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <sigml>
 
 	<!-- Gloss -->
 	<hns_sign gloss="A">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -22,10 +19,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="B">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -42,10 +35,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="C">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -61,10 +50,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="D">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -83,10 +68,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="E">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -104,10 +85,6 @@
 
 	<!-- Gloss STICK FINGERS -->
 	<hns_sign gloss="F">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -124,14 +101,10 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="G">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
-			<hamfinger2/>
+			<hamfinger2/><hamthumboutmod/>
 			<!-- Orientation -->
 			<hamextfingerl/>
 			<hampalml/>
@@ -143,14 +116,10 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="H">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
-			<hamfinger23/> <hamthumbacrossmod/>
+			<hamfinger23/> <hamthumboutmod/>
 			<!-- Orientation -->
 			<hamextfingerl/>
 			<hampalml/>
@@ -161,11 +130,21 @@
 	</hns_sign>
 
 	<!-- Gloss -->
-	<hns_sign gloss="I_J">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
+	<hns_sign gloss="I">
+		<!-- Manual -->
+		<hamnosys_manual>
+			<!-- Handshape for I -->
+			<hamfinger2/> <hamthumbacrossmod/> <hampinky/> 
+			<!-- Orientation -->
+			<hamextfingeru/> <hampalmd/>
+			<!-- Initial Location -->
+			<hamhead/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+
+	<!-- Gloss -->
+	<hns_sign gloss="J">
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape for I -->
@@ -187,11 +166,7 @@
 	</hns_sign>
 
 	<!-- Gloss -->
-	<hns_sign gloss="P-inv">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
+	<hns_sign gloss="K">
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -210,10 +185,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="L">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -229,10 +200,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="M">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -255,10 +222,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="N">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -284,10 +247,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="O">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -303,10 +262,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="P">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -325,10 +280,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="Q">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -345,10 +296,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="R">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -364,10 +311,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="S">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -382,10 +325,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="T">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -401,10 +340,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="U">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -419,10 +354,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="V">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -438,10 +369,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="W">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -457,10 +384,6 @@
 
 		<!-- Gloss -->
 	<hns_sign gloss="X">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -476,10 +399,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="Y">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -495,10 +414,6 @@
 
 	<!-- Gloss -->
 	<hns_sign gloss="Z">
-		<!-- Non-manual -->
-		<hamnosys_nonmanual>
-			<hnm_mouthpicture picture=""/>
-		</hamnosys_nonmanual>
 		<!-- Manual -->
 		<hamnosys_manual>
 			<!-- Handshape -->
@@ -514,8 +429,5 @@
 			<hamseqend/>
 		</hamnosys_manual>
 	</hns_sign>
-
-
-
 
 </sigml>
